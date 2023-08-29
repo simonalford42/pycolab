@@ -82,9 +82,9 @@ COLORS = [(700, 350, 350), (700, 454, 350), (700, 559, 350), (700, 664, 350),
           (350, 490, 700), (350, 384, 700), (419, 350, 700), (524, 350, 700),
           (630, 350, 700), (700, 350, 665), (700, 350, 559), (700, 350, 455)]
 
+# NUM_COLORS = len(COLORS)
 # this is the number of domino colors, doesn't include object colors below
-# NUM_COLORS = len(COLORS)  # default: all colors available
-NUM_COLORS = 8
+# NUM_COLORS = 6
 COLORS = COLORS[:NUM_COLORS]
 # NUM_COLORS = len(COLORS)
 
